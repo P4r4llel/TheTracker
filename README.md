@@ -1,0 +1,4 @@
+# TheTracker
+Everyday + Fitness tracker.
+
+The project is to make a registration app for mobile phone possibly in python and a data analyzer back end on the web/cloud.
